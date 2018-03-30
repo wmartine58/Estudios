@@ -1,0 +1,15 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1280x748+0+25
+
+[File Loader]
+Files=file:///home/daniel/Desktop/clases_espol_2010-1/Sistemas_Operativos/2010_1/code_L06/pthread/main.c#99%%%file:///home/daniel/Desktop/clases_espol_2010-1/Sistemas_Operativos/2010_1/code_L06/pthread/Makefile#85
+
+[Execution]
+Program arguments=100
+Run in terminal=2
+Last selected uri=file:///home/daniel/Desktop/clases_espol_2010-1/Sistemas_Operativos/2010_1/code_L06/pthread/thread_sync
+
+[Build]
+Configure parameters=- lpthreads

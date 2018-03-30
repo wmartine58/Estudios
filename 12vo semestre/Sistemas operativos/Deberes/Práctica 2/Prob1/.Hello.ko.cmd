@@ -1,0 +1,1 @@
+cmd_/media/4DE7-CC44/Prob1/Hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.2.0-39-generic/scripts/module-common.lds --build-id  -o /media/4DE7-CC44/Prob1/Hello.ko /media/4DE7-CC44/Prob1/Hello.o /media/4DE7-CC44/Prob1/Hello.mod.o

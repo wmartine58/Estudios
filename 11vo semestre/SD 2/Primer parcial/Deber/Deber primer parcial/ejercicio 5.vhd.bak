@@ -1,0 +1,33 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity deber is
+	port (Resetn, Clock, In1, In2: in std_logic;
+			S: out std_logic);
+end deber;
+
+architecture comportamiento of leccion is
+	type estado is (S1, S2, S3);
+	signal y: estado;
+begin
+	process (resetn, clock)
+		begin
+			if resetn = '0' then y <= A;
+			elsif clock'event and clock = '1' then
+				case y
+					when S1 =>
+						if In1 = '0' and In2 = '0' then y <= A;
+						elsif In1 = '0' and In2 = '1' then y <= B;
+						else y <= D;
+						end if;
+					when S2 =>
+						y <= A;
+					when S3 =>
+						if In1 = '0' and In2 = '0' then y <= B0;
+						elsif X = '0' and Y = '1' then y <= D;
+						else y <= A;
+						end if;
+				end case;
+			end if
+	end process;
+end comportamiento;

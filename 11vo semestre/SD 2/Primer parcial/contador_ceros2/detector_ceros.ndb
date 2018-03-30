@@ -1,0 +1,538 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 165
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|registro_i_d:Registro|
+F	|contador_up:Contador|
+]	|contador_up:Contador|LPM_ADD_SUB:75|
+"%	|contador_up:Contador|LPM_ADD_SUB:75|addcore:adder|addcore:adder0|
+
+The number of name info structs is : 522
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:100	#3
+#	IeEA	!	22	9	:101	#4
+$	IeEA	!	22	9	:102	#5
+%	IGdW	!	:103	#6
+&	IGdW	!	:104	#7
+'	IGdW	!	:105	#8
+(	IeEA	!	22	9	:106	#9
+)	IeEA	!	22	9	:107	#:
+*	IGdW	!	:108	#;
++	IGdW	!	:109	#<
+,	IGdW	!	:110	#=
+-	IGdW	!	:111	#>
+.	IGdW	!	:112	#?
+/	IGdW	!	:113	#@
+0	IGdW	!	:114	#A
+1	IGdW	!	:115	#B
+2	IeEA	!	22	9	:116	#C
+3	IeEA	!	22	9	:117	#D
+4	IGdW	!	:118	#E
+5	IGdW	!	:119	#F
+6	IGdW	!	:120	#G
+7	IGdW	!	:121	#H
+8	IGdW	!	:158	#m
+9	IGdW	!	:159	#n
+:	IeEA	!	38	9	:161	#p
+;	IeEA	!	38	9	:162	#q
+<	IeEA	!	38	9	:172	#{
+=	IeEA	!	38	9	:173	#|
+>	IeEA	!	38	9	:174	#}
+?	IGdW	!	:179	$$
+@	IGdW	!	:180	$%
+A	IGdW	!	:181	$&
+B	IGdW	!	:182	$'
+C	IGdW	!	:183	$(
+D	IGdW	!	:184	$)
+E	IGdW	!	:185	$*
+F	IGdW	!	:186	$+
+G	IGdW	!	:187	$,
+H	IGdW	!	:188	$-
+I	IGdW	!	:189	$.
+J	IGdW	!	:190	$/
+K	IGdW	!	:191	$0
+L	IGdW	!	:196	$5
+M	IGdW	!	:197	$6
+N	IGdW	!	:198	$7
+O	IGdW	!	:199	$8
+P	IGdW	!	:200	$9
+Q	IGdW	!	:201	$:
+R	IGdW	!	:202	$;
+S	IGdW	!	:203	$<
+T	IGdW	!	:204	$=
+U	IGdW	!	:205	$>
+V	IGdW	!	:206	$?
+W	IGdW	!	:207	$@
+X	IGdW	!	:208	$A
+Y	IGdW	!	:209	$B
+Z	IeEA	!	38	9	:211	$D
+[	IeEA	!	38	9	:212	$E
+\	IeEA	!	38	9	:214	$G
+]	IeEA	!	38	9	:215	$H
+^	IGdW	!	:220	$M
+_	IGdW	!	:221	$N
+`	IGdW	!	:222	$O
+a	IGdW	!	:223	$P
+b	IGdW	!	:224	$Q
+c	IGdW	!	:225	$R
+d	IGdW	!	:226	$S
+e	IGdW	!	:227	$T
+f	IGdW	!	:228	$U
+g	IGdW	!	:229	$V
+h	IGdW	!	:230	$W
+i	IGdW	!	:231	$X
+j	IGdW	!	:232	$Y
+k	IGdW	!	:237	$^
+l	IGdW	!	:238	$_
+m	IGdW	!	:239	$`
+n	IGdW	!	:240	$a
+o	IGdW	!	:241	$b
+p	IGdW	!	:242	$c
+q	IGdW	!	:243	$d
+r	IGdW	!	:244	$e
+s	IGdW	!	:245	$f
+t	IGdW	!	:246	$g
+u	IGdW	!	:247	$h
+v	IGdW	!	:248	$i
+w	IeEA	!	59	9	:263	$x
+x	IeEA	!	59	9	:264	$y
+y	IeEA	!	59	9	:265	$z
+z	IeEA	!	59	9	:266	${
+{	IeEA	!	59	9	:267	$|
+|	IeEA	!	59	9	:268	$}
+}	IeEA	!	59	9	:269	$~
+~	IeEA	!	59	9	:270	%!
+"!	IeEA	!	59	9	:271	%"
+""	IGdW	!	:272	%#
+"#	IGdW	!	:273	%$
+"$	IGdW	!	:274	%%
+"%	IGdW	!	:275	%&
+"&	IGdW	!	:276	%'
+"'	IGdW	!	:277	%(
+"(	IGdW	!	:278	%)
+")	IGdW	!	:279	%*
+"*	IGdW	!	:280	%+
+"+	IGdW	!	:281	%,
+",	IGdW	!	:282	%-
+"-	IGdW	!	:283	%.
+".	IeEA	!	22	9	:46	"[
+"/	IeEA	!	27	33	:50	"_
+"0	IeEA	!	27	33	:51	"`
+"1	IeEA	!	27	33	:52	"a
+"2	IGdW	!	:53	"b
+"3	IGdW	!	:54	"c
+"4	IGdW	!	:55	"d
+"5	IeEA	!	27	33	:56	"e
+"6	IeEA	!	27	33	:57	"f
+"7	IGdW	!	:58	"g
+"8	IGdW	!	:59	"h
+"9	IGdW	!	:60	"i
+":	IeEA	!	29	33	:64	"m
+";	IeEA	!	29	33	:65	"n
+"<	IeEA	!	29	33	:66	"o
+"=	IGdW	!	:67	"p
+">	IGdW	!	:68	"q
+"?	IGdW	!	:69	"r
+"@	IeEA	!	29	33	:70	"s
+"A	IeEA	!	29	33	:71	"t
+"B	IGdW	!	:72	"u
+"C	IGdW	!	:73	"v
+"D	IGdW	!	:74	"w
+"E	IeEA	!	31	33	:78	"{
+"F	IeEA	!	31	33	:79	"|
+"G	IeEA	!	31	33	:80	"}
+"H	IGdW	!	:81	"~
+"I	IGdW	!	:82	#!
+"J	IGdW	!	:83	#"
+"K	IeEA	!	31	33	:84	##
+"L	IeEA	!	31	33	:85	#$
+"M	IGdW	!	:86	#%
+"N	IGdW	!	:87	#&
+"O	IGdW	!	:88	#'
+"P	IGdW	!	:89	#(
+"Q	IGdW	!	:90	#)
+"R	IGdW	!	:91	#*
+"S	IGdW	!	:92	#+
+"T	IGdW	!	:93	#,
+"U	IGdW	!	:94	#-
+"V	IGdW	!	:95	#.
+"W	IGdW	!	:96	#/
+"X	IGdW	!	:97	#0
+"Y	IGdW	!	:98	#1
+"Z	IGdW	!	:99	#2
+"[	IeEZ	!	6	14	Clock	p
+"\	"<R?b	!	8	18	data0	!	data0	z
+"]	"<R?b	!	8	18	data1	!	data1	y
+"^	"<R?b	!	8	18	data2	!	data2	x
+"_	"<R?b	!	8	18	data3	!	data3	w
+"`	"<R?b	!	8	18	data4	!	data4	v
+"a	"<R?b	!	8	18	data5	!	data5	u
+"b	"<R?b	!	8	18	data6	!	data6	t
+"c	"<R?b	!	8	18	data7	!	data7	s
+"d	IeE[	!	9	18	Fin	{
+"e	IeEZ	!	7	18	Ld_Reg	r
+"f	"<R?c	!	10	18	num_ceros0	!	num_ceros0	"!
+"g	"<R?c	!	10	18	num_ceros1	!	num_ceros1	~
+"h	"<R?c	!	10	18	num_ceros2	!	num_ceros2	}
+"i	"<R?c	!	10	18	num_ceros3	!	num_ceros3	|
+"j	IeEZ	!	6	14	Resetn	o
+"k	IeEZ	!	7	18	start	q
+"l	IeEA	!	22	9	Ta	%0
+"m	IeEA	!	22	9	Tb	%2
+"n	IeEA	!	22	9	Tc	%4
+"o	IeE1	!	22	9	y	%6
+"p	IGdW	F	:100	/*
+"q	IGdW	F	:101	/+
+"r	IGdW	F	:102	/,
+"s	IGdW	F	:103	/-
+"t	IGdW	F	:104	/.
+"u	IGdW	F	:105	//
+"v	IGdW	F	:106	/0
+"w	IGdW	F	:107	/1
+"x	IGdW	F	:108	/2
+"y	IGdW	F	:109	/3
+"z	IeE1	F	11	18	:11	.3
+"{	IGdW	F	:110	/4
+"|	IGdW	F	:111	/5
+"}	IGdW	F	:112	/6
+"~	IGdW	F	:113	/7
+#!	IGdW	F	:118	/<
+#"	IGdW	F	:119	/=
+##	IGdW	F	:120	/>
+#$	IGdW	F	:121	/?
+#%	IGdW	F	:122	/@
+#&	IGdW	F	:123	/A
+#'	IGdW	F	:124	/B
+#(	IGdW	F	:125	/C
+#)	IGdW	F	:126	/D
+#*	IGdW	F	:127	/E
+#+	IGdW	F	:128	/F
+#,	IGdW	F	:129	/G
+#-	IeE1	F	11	18	:13	.4
+#.	IGdW	F	:130	/H
+#/	IGdW	F	:131	/I
+#0	IGdW	F	:132	/J
+#1	IGdW	F	:133	/K
+#2	IGdW	F	:134	/L
+#3	IGdW	F	:135	/M
+#4	IGdW	F	:136	/N
+#5	IGdW	F	:137	/O
+#6	IGdW	F	:138	/P
+#7	IGdW	F	:139	/Q
+#8	IGdW	F	:140	/R
+#9	IGdW	F	:141	/S
+#:	IGdW	F	:142	/T
+#;	IGdW	F	:143	/U
+#<	IGdW	F	:144	/V
+#=	IGdW	F	:145	/W
+#>	IGdW	F	:146	/X
+#?	IGdW	F	:147	/Y
+#@	IeE1	F	11	18	:15	.5
+#A	IeEA	F	16	9	:32	.E
+#B	IGdW	F	:84	.x
+#C	IGdW	F	:85	.y
+#D	IGdW	F	:86	.z
+#E	IGdW	F	:87	.{
+#F	IGdW	F	:88	.|
+#G	IGdW	F	:89	.}
+#H	IeE1	F	11	18	:9	.2
+#I	IGdW	F	:90	.~
+#J	IGdW	F	:91	/!
+#K	IGdW	F	:92	/"
+#L	IGdW	F	:93	/#
+#M	IGdW	F	:94	/$
+#N	IGdW	F	:95	/%
+#O	IGdW	F	:96	/&
+#P	IGdW	F	:97	/'
+#Q	IGdW	F	:98	/(
+#R	IGdW	F	:99	/)
+#S	IeEA	]	704	78	:105	0c
+#T	IeEA	]	704	78	:106	0d
+#U	IeEA	]	704	56	:107	0e
+#V	IeEA	]	705	35	:108	0f
+#W	IeEA	]	704	91	:109	0g
+#X	IeEA	]	704	91	:110	0h
+#Y	IeEA	"%	196	33	:141	2a
+#Z	IeEA	"%	196	63	:142	2b
+#[	IeEA	"%	196	49	:143	2c
+#\	IeEA	"%	197	33	:144	2d
+#]	IeEA	"%	197	65	:145	2e
+#^	IeEA	"%	198	22	:146	2f
+#_	IeEA	"%	197	81	:147	2g
+#`	IeEA	"%	197	49	:148	2h
+#a	IeEA	"%	196	33	:149	2i
+#b	IeEA	"%	196	63	:150	2j
+#c	IeEA	"%	196	49	:151	2k
+#d	IeEA	"%	197	33	:152	2l
+#e	IeEA	"%	197	65	:153	2m
+#f	IeEA	"%	198	22	:154	2n
+#g	IeEA	"%	197	81	:155	2o
+#h	IeEA	"%	197	49	:156	2p
+#i	IeEA	"%	196	33	:157	2q
+#j	IeEA	"%	196	63	:158	2r
+#k	IeEA	"%	196	49	:159	2s
+#l	IeEA	"%	197	33	:160	2t
+#m	IeEA	"%	197	65	:161	2u
+#n	IeEA	"%	198	22	:162	2v
+#o	IeEA	"%	197	81	:163	2w
+#p	IeEA	"%	197	49	:164	2x
+#q	IeEA	"%	196	33	:165	2y
+#r	IeEA	"%	196	63	:166	2z
+#s	IeEA	"%	196	49	:167	2{
+#t	IeEA	"%	197	33	:168	2|
+#u	IeEA	"%	197	65	:169	2}
+#v	IeEA	"%	198	22	:170	2~
+#w	IeEA	"%	197	81	:171	3!
+#x	IeEA	"%	197	49	:172	3"
+#y	IeEA	"%	201	53	:173	3#
+#z	IeEA	"%	201	38	:174	3$
+#{	IeEA	"%	202	56	:176	3&
+#|	IeEA	"%	202	40	:177	3'
+#}	IeEA	"%	202	25	:178	3(
+#~	IeEA	"%	203	25	:179	3)
+$!	IeEA	"%	203	40	:180	3*
+$"	IeEA	"%	203	55	:181	3+
+$#	IeEA	"%	348	17	:213	3K
+$$	IeEA	"%	350	25	:215	3M
+$%	IeEA	"%	350	16	:216	3N
+$&	IeEA	"%	360	28	:220	3R
+$'	IeEA	"%	361	28	:222	3T
+$(	IeEA	"%	366	29	:224	3V
+$)	IeEA	"%	367	29	:226	3X
+$*	IeEA	"%	378	30	:232	3^
+$+	IeEA	"%	379	31	:234	3`
+$,	IeEA	"%	380	31	:236	3b
+$-	IeEA	"%	387	29	:238	3d
+$.	IeEA	"%	387	38	:239	3e
+$/	IeEA	"%	392	32	:240	3f
+$0	IeEA	"%	392	32	:241	3g
+$1	IeEA	"%	392	42	:242	3h
+$2	IeEA	"%	392	32	:243	3i
+$3	IeEA	"%	392	32	:244	3j
+$4	IeEA	"%	392	42	:245	3k
+$5	IeEA	"%	390	27	:246	3l
+$6	IeEA	"%	392	32	:247	3m
+$7	IeEA	"%	392	32	:248	3n
+$8	IeEA	"%	392	42	:249	3o
+$9	IeEA	"%	392	32	:250	3p
+$:	IeEA	"%	392	32	:251	3q
+$;	IeEA	"%	392	42	:252	3r
+$<	IeEA	"%	392	32	:253	3s
+$=	IeEA	"%	392	32	:254	3t
+$>	IeEA	"%	392	42	:255	3u
+$?	IeEA	"%	392	32	:256	3v
+$@	IeEA	"%	392	32	:257	3w
+$A	IeEA	"%	392	42	:258	3x
+$B	IeEA	"%	397	34	:259	3y
+$C	IeEA	"%	397	34	:260	3z
+$D	IeEA	"%	397	43	:261	3{
+$E	IeEA	"%	397	24	:262	3|
+$F	IeEA	"%	165	5	cout_node	2W
+$G	IeEA	"%	366	20	g2c1	3W
+$H	IeEA	"%	367	20	g2c2	3Y
+$I	IeEA	"%	159	9	g2cp1	2E
+$J	IeEA	"%	159	9	g2cp2	2D
+$K	IeEA	"%	348	17	g3	3L
+$L	IeEA	"%	158	5	g4	2C
+$M	IeEA	"%	360	19	gc1	3S
+$N	IeEA	"%	361	19	gc2	3U
+$O	IeEA	"%	160	8	gcp2	2F
+$P	IeEA	"%	168	14	genr_node0	2_
+$Q	IeEA	"%	168	14	genr_node1	2^
+$R	IeEA	"%	168	14	genr_node2	2]
+$S	IeEA	"%	168	14	genr_node3	2\
+$T	IeEA	"%	331	22	gn0	3.
+$U	IeEA	"%	338	23	gn1	31
+$V	IeEA	"%	338	23	gn2	34
+$W	IeEA	"%	338	23	gn3	37
+$X	IeEA	"%	338	23	gn4	3:
+$Y	IeEA	"%	338	23	gn5	3=
+$Z	IeEA	"%	338	23	gn6	3@
+$[	IeEA	"%	338	23	gn7	3C
+$\	IeEA	"%	201	22	gp0	3%
+$]	IeEA	"%	148	7	gs1	1w
+$^	IeEA	"%	148	7	gs2	1v
+$_	IeEA	"%	148	7	gs3	1u
+$`	IeEA	"%	148	7	gs4	1t
+$a	IeEA	"%	148	7	gs5	1s
+$b	IeEA	"%	148	7	gs6	1r
+$c	IeEA	"%	148	7	gs7	1q
+$d	IeEA	"%	354	17	p2c0	3O
+$e	IeEA	"%	355	21	p2c1	3P
+$f	IeEA	"%	356	21	p2c2	3Q
+$g	IeEA	"%	343	20	pc0	3D
+$h	IeEA	"%	345	21	pc1	3E
+$i	IeEA	"%	345	21	pc2	3F
+$j	IeEA	"%	345	21	pc3	3G
+$k	IeEA	"%	345	21	pc4	3H
+$l	IeEA	"%	345	21	pc5	3I
+$m	IeEA	"%	345	21	pc6	3J
+$n	IeEA	"%	328	22	pp0	3,
+$o	IeEA	"%	335	23	pp1	3/
+$p	IeEA	"%	335	23	pp2	32
+$q	IeEA	"%	335	23	pp3	35
+$r	IeEA	"%	335	23	pp4	38
+$s	IeEA	"%	335	23	pp5	3;
+$t	IeEA	"%	335	23	pp6	3>
+$u	IeEA	"%	335	23	pp7	3A
+$v	IeEA	"%	167	15	prop_node0	2[
+$w	IeEA	"%	167	15	prop_node1	2Z
+$x	IeEA	"%	167	15	prop_node2	2Y
+$y	IeEA	"%	167	15	prop_node3	2X
+$z	IeEA	"%	150	7	ps0	2)
+${	IeEA	"%	150	7	ps1	2(
+$|	IeEA	"%	150	7	ps2	2'
+$}	IeEA	"%	150	7	ps3	2&
+$~	IeEA	"%	150	7	ps4	2%
+%!	IeEA	"%	150	7	ps5	2$
+%"	IeEA	"%	150	7	ps6	2#
+%#	IeEA	"%	150	7	ps7	2"
+%$	IeEA	"%	330	12	psi0	3-
+%%	IeEA	"%	337	13	psi1	30
+%&	IeEA	"%	337	13	psi2	33
+%'	IeEA	"%	337	13	psi3	36
+%(	IeEA	"%	337	13	psi4	39
+%)	IeEA	"%	337	13	psi5	3<
+%*	IeEA	"%	337	13	psi6	3?
+%+	IeEA	"%	337	13	psi7	3B
+%,	IeEA	"%	164	16	result_node0	2V
+%-	IeEA	"%	164	16	result_node1	2U
+%.	IeEA	"%	164	16	result_node2	2T
+%/	IeEA	"%	164	16	result_node3	2S
+%0	IeEA	"%	164	16	result_node4	2R
+%1	IeEA	"%	164	16	result_node5	2Q
+%2	IeEA	"%	164	16	result_node6	2P
+%3	IeEA	"%	164	16	result_node7	2O
+%4	IeEA	"%	374	29	tot_cin_node0	3Z
+%5	IeEA	"%	375	29	tot_cin_node1	3[
+%6	IeEA	"%	376	30	tot_cin_node2	3\
+%7	IeEA	"%	377	26	tot_cin_node3	3]
+%8	IeEA	"%	378	38	tot_cin_node4	3_
+%9	IeEA	"%	379	39	tot_cin_node5	3a
+%:	IeEA	"%	380	39	tot_cin_node6	3c
+%;	IeEA	]	114	14	datab_node0	0\
+%<	IeEA	]	114	14	datab_node1	0[
+%=	IeEA	]	114	14	datab_node2	0Z
+%>	IeEA	]	114	14	datab_node3	0Y
+%?	IeEA	.	15	9	:113	&S
+%@	IeE1	.	10	18	:14	%V
+%A	IeE1	.	10	18	:16	%W
+%B	IeE1	.	10	18	:18	%X
+%C	IeE1	.	10	18	:20	%Y
+%D	IeE1	.	10	18	:22	%Z
+%E	IeE1	.	10	18	:24	%[
+%F	IeE1	.	10	18	:26	%\
+%G	IeE1	.	10	18	:28	%]
+%H	IGdW	.	:624	+|
+%I	IGdW	.	:625	+}
+%J	IGdW	.	:626	+~
+%K	IGdW	.	:627	,!
+%L	IGdW	.	:628	,"
+%M	IGdW	.	:629	,#
+%N	IGdW	.	:630	,$
+%O	IGdW	.	:631	,%
+%P	IGdW	.	:632	,&
+%Q	IGdW	.	:633	,'
+%R	IGdW	.	:634	,(
+%S	IGdW	.	:635	,)
+%T	IGdW	.	:636	,*
+%U	IGdW	.	:637	,+
+%V	IGdW	.	:638	,,
+%W	IGdW	.	:639	,-
+%X	IGdW	.	:640	,.
+%Y	IGdW	.	:641	,/
+%Z	IGdW	.	:642	,0
+%[	IGdW	.	:643	,1
+%\	IGdW	.	:644	,2
+%]	IGdW	.	:645	,3
+%^	IGdW	.	:646	,4
+%_	IGdW	.	:647	,5
+%`	IGdW	.	:648	,6
+%a	IGdW	.	:649	,7
+%b	IGdW	.	:650	,8
+%c	IGdW	.	:651	,9
+%d	IGdW	.	:652	,:
+%e	IGdW	.	:653	,;
+%f	IGdW	.	:654	,<
+%g	IGdW	.	:655	,=
+%h	IGdW	.	:656	,>
+%i	IGdW	.	:657	,?
+%j	IGdW	.	:658	,@
+%k	IGdW	.	:659	,A
+%l	IGdW	.	:660	,B
+%m	IGdW	.	:661	,C
+%n	IGdW	.	:662	,D
+%o	IGdW	.	:663	,E
+%p	IGdW	.	:664	,F
+%q	IGdW	.	:665	,G
+%r	IGdW	.	:666	,H
+%s	IGdW	.	:667	,I
+%t	IGdW	.	:668	,J
+%u	IGdW	.	:669	,K
+%v	IGdW	.	:670	,L
+%w	IGdW	.	:671	,M
+%x	IGdW	.	:672	,N
+%y	IGdW	.	:673	,O
+%z	IGdW	.	:674	,P
+%{	IGdW	.	:675	,Q
+%|	IGdW	.	:676	,R
+%}	IGdW	.	:677	,S
+%~	IGdW	.	:686	,\
+&!	IGdW	.	:687	,]
+&"	IGdW	.	:688	,^
+&#	IGdW	.	:689	,_
+&$	IGdW	.	:690	,`
+&%	IGdW	.	:691	,a
+&&	IGdW	.	:692	,b
+&'	IGdW	.	:693	,c
+&(	IGdW	.	:694	,d
+&)	IGdW	.	:695	,e
+&*	IGdW	.	:696	,f
+&+	IGdW	.	:697	,g
+&,	IGdW	.	:698	,h
+&-	IGdW	.	:699	,i
+&.	IGdW	.	:700	,j
+&/	IGdW	.	:701	,k
+&0	IGdW	.	:702	,l
+&1	IGdW	.	:703	,m
+&2	IGdW	.	:704	,n
+&3	IGdW	.	:705	,o
+&4	IGdW	.	:706	,p
+&5	IGdW	.	:707	,q
+&6	IGdW	.	:708	,r
+&7	IGdW	.	:709	,s
+&8	IGdW	.	:710	,t
+&9	IGdW	.	:711	,u
+&:	IGdW	.	:712	,v
+&;	IGdW	.	:713	,w
+&<	IGdW	.	:714	,x
+&=	IGdW	.	:715	,y
+&>	IGdW	.	:716	,z
+&?	IGdW	.	:717	,{
+&@	IGdW	.	:718	,|
+&A	IGdW	.	:719	,}
+&B	IGdW	.	:720	,~
+&C	IGdW	.	:721	-!
+&D	IGdW	.	:722	-"
+&E	IGdW	.	:723	-#
+&F	IGdW	.	:724	-$
+&G	IGdW	.	:725	-%
+&H	IGdW	.	:726	-&
+&I	IGdW	.	:727	-'
+&J	IGdW	.	:728	-(
+&K	IGdW	.	:729	-)
+&L	IGdW	.	:730	-*
+&M	IGdW	.	:731	-+
+&N	IGdW	.	:732	-,
+&O	IGdW	.	:733	--
+&P	IGdW	.	:734	-.
+&Q	IGdW	.	:735	-/
+&R	IGdW	.	:736	-0
+&S	IGdW	.	:737	-1
+&T	IGdW	.	:738	-2
+&U	IGdW	.	:739	-3

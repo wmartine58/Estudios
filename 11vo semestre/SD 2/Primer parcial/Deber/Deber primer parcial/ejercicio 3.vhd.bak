@@ -1,0 +1,11 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity deber is
+	port(Resetn, Clock, A, B: in std_logic;
+			HP: out std_logic);
+end deber;
+
+architecture comportamiento of deber is
+	type estado is (e0, e1, e2, e3, e4, e5)
+	begin

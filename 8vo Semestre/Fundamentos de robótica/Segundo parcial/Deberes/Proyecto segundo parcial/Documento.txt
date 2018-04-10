@@ -1,0 +1,14 @@
+Buscar y programar una propuesta en ROS con alguno de los robots que aparecen ahí, de preferencia:
+-NAO.
+-Brazo Robótico.
+-Quadricoptero.
+
+Usar el entorno Vrep para practicar.
+
+La aplicación que vamos a proponer debe tener:
+Soporte matemáticos.
+Usar sensores.
+Tener una estrategia de resolución.
+
+Pagina oficial para descargarROS:
+ros.org

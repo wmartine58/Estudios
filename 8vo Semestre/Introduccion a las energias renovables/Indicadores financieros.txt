@@ -1,0 +1,34 @@
+Beneficios Brutos BB:
+Beneficios Brutos = Ingresos - Egresos
+
+
+Amortización:
+El reconocimiento contable de una inversión, cada producto se va devalorando con el paso del tiempo.
+Amortización = Inversión/(Vida útil)
+
+BAIT:
+BAIT = BB - Amortización
+
+BAT:
+Beneficios Amortización Intereses y Tazas.
+intereses: se restan los intereses.
+BAT = BAIT - intereses
+
+Base Imponible BI:
+utilidades de los trabajadores. En Ecuador las utilidades que se le pagan a los trabajadores son el
+15%BAT.
+BI = BAT - Utilidades de los trabajadores
+
+Beneficio Neto BN:
+Impuesto a la renta = 25%BI
+BN = BI - Impuesto a la renta
+
+Flujo Efectivo o Cash Flow FE:
+Flujo de Efectivo = BN+Amortización-Inversión-Desemblozo de Capital
+El Desembolzo del Capital es el pago del prestamo.
+
+Interes:
+Interes = 10%(Capital)
+
+
+ 

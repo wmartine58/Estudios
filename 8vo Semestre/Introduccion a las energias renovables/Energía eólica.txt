@@ -1,0 +1,42 @@
+Potencia del viento P [w]:
+P[w] = [d*(v^3)*pi*(r^2)]/2
+d: es la densidad del material que genera la potencia, en este caso, es la densidad del aire.
+r: es el radio de las aspas de los aero-generadores.
+v: velocidad del viento promedio registrada a lo largo de un año en el buje.
+
+La masa de aire que pasa a traves de las montañas al chocarse con estas se desvian a otros caminos por donde pueden pasar,
+con una mayor presión, y por ende, mayor fuerza.
+
+El viento aumenta aumenta a medida que aumentemos su altura en forma exponencial.
+
+buje:
+Es el punto central que conecta las aspas de los aero-generadores.
+
+veleta:
+Es una paleta que se ajusta siempre en la dirección del viento.
+
+Rosa de vientos:
+nos indica la potencia que podemos ganar del viento.
+
+Torres de medición.
+Estructuras resistentes que no frenen mucho el viento,        
+
+Velocidad del viento:
+Vz = Vzr(Z/Zr)^(coef rugocidad)
+Zr: Altura de referencia
+Z: Altura de medición
+Vz: Velocidad de referencia del viento
+V: Velocidad del viento
+
+Potencia de la turbina:
+P[w] = {[d*(v^3)*pi*(r^2)]/2}*cp
+cp:rendimiento de la turbina
+
+Limite de betz:
+Solo puede convertirse menos de 16/27 (59%) de la energía mecánica usando un aerogenerador.
+
+Motores de sotavento:
+Motores donde las aspas hacen de veletas y el .
+
+# horas en el año:
+El año tiene 8760 horas.

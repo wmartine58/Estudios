@@ -1,0 +1,22 @@
+Potencia reactiva P:
+No existe potencia negativa, la potencia no tiene ángulo, es una magnitud.
+
+Teta:
+El ángulo teta es el águlo de la impedancia, resultado de la resta del ángulo del voltaje menos el ángulo de la corriente.
+
+Factor de potencia cos(teta):
+El factor de potencia es un valor entre 0 y 1, nos dice que tan buena es la potencia que estamos consumiendo, 
+si es uno esta perfecto (todo es resistivo).
+El factor de potencia en atraso se trata de un circuito predominantemente inductivo, y el ángulo teta es positivo.
+El factor de potencia en adelanto se trata de un circuito predominantemente capasitivo, y el ángulo teta es negativo.
+
+Potencia reactiva Q:
+Es un vector, pero no lleva un signo, se debe poner la palabra atraso o adelanto, atraso en positivo y adelanto en negativo.
+Su fórmula es Q = VIsen(teta)[VAR]
+
+Potencia aparente s:
+Es una magnitud.
+si tiene mas es predominantemente 
+si tiene menos es predominantemente 
+
+I* (Conjugado de la corriente) es identica en magnitud a la corriente, pero con el ángulo en el otro sentido.

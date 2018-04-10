@@ -1,0 +1,4 @@
+Un sistema esta balanceado las magnitudes de las corrientes y voltajes son iguales para cada caso.
+
+
+El mismo angulo de impedancia Z es el angulo de la potencia aparente S.

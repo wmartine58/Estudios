@@ -1,0 +1,25 @@
+Transformación de un sistema trifásico balanceado a monofásico:
+Se toma como referencia la linea que precente alguna información adicional.
+
+Cada agrupación de cargas en delta presentan todas igual magnitud de Z y ángulo, por lo que
+se reduce cada agrupación a una sola carga con magnitud igual a la magnitud de alguna de las cargas
+de su agrupación respectiva y a su mismo ángulo.
+
+En cargas con agrupación en y, su transformación a monofásico es igual a una carga idéntica en magnitud
+y ángulo a cualquiera de las cargas de la agrupación.
+
+Fórmulas para cálculo de potencia por fase:
+Potencia activa:
+P = VIcos(teta)
+
+Potencia reactiva:
+Q = VIsen(teta)
+
+Potencia para conjunto en Y:
+Pan = VanIacos(teta)
+
+Potencia para conjunto en delta:
+
+Admitancia:
+Es el inverso de un ohmnio.
+

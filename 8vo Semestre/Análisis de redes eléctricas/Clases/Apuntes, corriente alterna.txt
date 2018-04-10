@@ -1,0 +1,22 @@
+Superposición:
+En superposición en corriente alterna, si tengo varias fuentes alernas con distintas frecuencias, o tambien
+cuando tengo varias fuentes alternas y una fuente DC.
+La aplicación de superposición hace que las fuentes alternas se hacen 0, se trabaja con las fuentes DC, donde se trabaja
+para AC primero haciendo 0 las fuentes de corriente y luego las fuentes de voltaje, y luego se
+hace lo inverso, haciendo 0 las fuentes DC, y trabajando con las fuentes AC.
+el resultado queda expresado en una sumatoria de los valores de las fuentes, pero no sumamos dichos valores, a causa 
+de que cada una tiene diferente frecuencia.
+
+Voltaje de thevenin:
+Se hacen 0 las fuentes independientes de corriente y se saca el voltaje en los terminales, luego las fuentes de 
+voltaje se hacen 0, y se obtiene también el valor del voltaje en los terminales, luego se suman dichos valores obteniendo
+asi el voltaje de thevenin.
+
+Resistencia de thevenin o de northon:
+Se trabaja con una fuente de prueba, donde se coloca dicha fuente en los terminales ab, y se obtiene el valor de la corriente que
+por ahi circula, luego se divide esa fuente para dicha corriente, y esta es la resistencia de thevenin.
+En el caso de que todas las fuentes (tanto de corriente como de voltaje) se hagan 0, y solo tengamos un circuito de resistencias
+obtenemos la resistencia equivalente, que será la resistencia de thevenin o de northon. 
+
+Corriente de thevenin o de northon:
+Se obtiene dividiendo el voltaje de thevenin para la resistencia de thevenin o de northon.

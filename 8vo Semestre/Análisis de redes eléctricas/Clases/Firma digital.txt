@@ -1,0 +1,3 @@
+Firma digital:
+Es un texto plano a modo de código, que se convierte en una llave para proveer de seguridad a los documentos de una persona
+Empleado como una autenticación de un documento que he emitido.<<		<<<

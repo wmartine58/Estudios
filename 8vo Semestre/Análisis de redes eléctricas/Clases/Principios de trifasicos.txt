@@ -1,0 +1,38 @@
+El sistema del generador esta balanceado, es decir, sus cargas son iguales.
+
+En la carga trifásica las cargas pueden estar balanceadas o desvalanceadas, para el sistema en estrella se encuentra en neutro.
+
+1) Calcular la potencia trifásica.
+2) Medir la corriente trifasica, linea a linea, o liena a neutro.
+
+
+Representacion voltaje linea a linea Vll: Vca, Vab, Vbc
+Representacion voltaje linea neutro Vln: Vcn, Van, Vbn
+
+En coneccion estrella los voltajes de cada uno de los tres alambres del lado del generador, tienen el mismo valor de voltaje en magnitud y desfazados 120º
+cuando el sistema es valanceado, si esta el sistema valanceado en el lado del generador, los voltajes en magnitud y desface también se 
+aplican para el lado de la carga.
+
+Se recomienda trabajar en una secuencia positiva o negativa, de acuerdo al sentido horario.
+secuencia negativa: c, b, a
+secuencia positiva: a, b, c
+
+Debo conocer el voltaje de referencia de la linea del medio, y el angulo de referencia de dicho voltaje.
+
+Jamas en una resistencia con una reactancia nunca la corriente que pase por ella es 0.
+
+En secuencia positiva, el voltaje ln atrasa 30º a su voltaje ll, y la corriente Il adelanta 30º a su corriente If.
+En secuencia negativa, el voltaje ln adelanta 30º a su voltaje ll, y la corriente Il atrasa 30º a su corriente If.
+If es la corriente de fase, que pasa por cada carga.
+
+La corriente de fase es la corriente que pasa por su reactancia respectiva.
+La corriente de linea es en un sistema en estrella, la corriente de fase respectiva para cada reactancia.
+
+Las corrientes de fase sumadas fasorialmente son iguales a 0.
+
+En el lado de las cargas se sueles poner las letras que simbolizan con mayusculas.
+
+Las impedancias en el lado de las cargas son en magnitud y en angulo exantamente iguales en un sistema valanceado, y la corriente neutra es 0.
+
+
+

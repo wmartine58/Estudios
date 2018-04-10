@@ -1,0 +1,3 @@
+Potencia máxima transferida:
+Cuando la impedancia de carga es variable la potencia transferida es máxima.
+

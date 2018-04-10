@@ -1,0 +1,32 @@
+Transitor:
+Un transitor funciona como un switch (abre para una decisión y se cierra para otra decision) como colector y emisor 
+de energia eléctrica.
+
+Sensor de infrarrojo:
+Se compone de fototransitores (reciven señal) y diodos (emiten señal), los diodos emiten llamada infrarrojo (invisible al ojo humano) 
+que es detectada por los fototransitores.
+
+Los sensores de tacto son switchs que permiten abrir o cerrar circuitos internos para que en base a eso el robot tome una desición 
+mediante programación.
+
+Sensor de rotación:
+Son sensores de infrarrojos que se ajustan a la rueda que esta marcada con franjas blancas para que cuando esta de vueltas
+en base a las franjas blancas que detecte poder calcular el numero de vueltas o los grados a los que esta la rueda.
+
+Capacitores:
+Los capasitores sirven como filtros de ruido para poder detectar solo la señal que requiero sin señales parasitas (ruido) 
+en esta. 
+
+Sensores de luz:
+Convierten variaciones de luz en variaciones de corriente en relaciones unicas corriente y luz para detectar cada tonalidad
+de luz.
+
+transductor:
+Un transductor es un dispositivo capaz de transformar o convertir una determinada manifestación de energía de entrada, 
+en otra diferente a la salida, pero de valor muy pequeño en términos relativos con respecto a un generador.
+
+Sensor propioceptivo:
+Un sensor propioceptivo es cualquier sensor usado para medir el estado interno del robot. Monitoreando esta clase de sensores puede 
+indicar al robot cuando es tiempo de recargar sus baterías, cuando un motor se está sobrecalentando o cuando un componente no 
+está funcionando correctamente.
+

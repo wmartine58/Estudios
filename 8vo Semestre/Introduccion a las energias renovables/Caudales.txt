@@ -1,0 +1,47 @@
+Caudal ecológico:
+Es el 10% del caudal medio.
+
+Caudal de diseño:
+El caudal de diseño Cd es el que me da mayor VAN o mayor TIR (mayores rendimientos)
+
+Caudal disponible:
+Será el caudal resultante de Qpm - Qeco - Qriego.
+
+Caudal útil:
+Es el menor caudal entre el caudal de diseño y el caudal disponible.
+Si el caudal de diseño es mayor que el caudal disponible, el caudal útil es el caudal disponible.
+Si el caudal disponible es mayor que el caudal de diseño, el caudal útil es el caudal de diseño.
+
+Indicadores financieros:
+Los indicadores financieros pueden ser:
+-VAN: valor actual neto, se debe elegir el costo de puntualidad, que la elige el inversionista.
+-TIR: Taza internn de retorno, la máxima taza de rentabilidad.
+
+Porcentaje de caudal útil.
+Si divido el caudal útil para el caudal de diseño de esa iteración, se obtendrá el procentaje de caudal útil.
+
+Curva de rendimiento:
+La curva de rendimientos tiene como eje X el porcentaje de caudal útil, y en el eje Y se coloca el rendimiento 
+(en porcentaje).
+
+rendimiento de la turbina:
+El rendimiento de la turbina se la obtiene sustituyendo la en la ecuación de rendimiento el porcentaje de 
+caudal útil.
+
+Mínimo turbinable:
+Es la mínima fuerza que requiere la turbina para romper la inercia y empezar a moverse en el caudal de un rio.
+
+Dinero:
+Es la representación del poder adquisitivo, es decir, es la representación del valor de los bienes y servicios.
+
+Mercado:
+Son todas las personas que manejan dinero o tienen poder adquisitivo.
+
+Inflación:
+Es cuando un bien gana poder adquisitivo, y por ende aumenta su costo.
+
+Monopolio:
+Cuando una sola empresa tiene el mercado de un producto.
+
+Oligopolio:
+Cuando varias empresas compiten por el mercado de un mismo producto.

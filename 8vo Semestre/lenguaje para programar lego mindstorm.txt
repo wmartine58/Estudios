@@ -1,0 +1,2 @@
+lenguaje para programar lego mindstorm:
+mindstorm: nxt v2.0 

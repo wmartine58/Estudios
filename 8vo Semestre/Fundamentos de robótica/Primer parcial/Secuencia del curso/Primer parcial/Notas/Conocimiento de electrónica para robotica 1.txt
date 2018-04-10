@@ -1,0 +1,60 @@
+circuito generdor:
+Es un circuito que transforma la señal digital para que recupere su energía o amplifique la misma.
+
+Efecto antena:
+http://www.fperezvillar.com/Efecto-antena.htm
+
+Principio de la estructura de un conector:
+La estructura de un conector ddebe ser tal que al acoplarse con su contraparte sea de una única forma, asi si no se tiene conocimiento de que conector
+se conecta con otro dispositivo no se conecte con una parte que no le corresponda, que se pueda dañar, etc.
+
+Depurar:
+Depurar es buscar y corregir errores, minmizarlos ya que por lo general no se puede corrregir completamente todos los errores
+de un circuito.
+En electrónica se puede depurar de dirferentes formas:
+-Etiquetar cada tarjeta con los nombres de los chips y su posicion marcada, para evitar que se acople de forma equivocada.
+-Hacer una copia de del circuito y resaltar cada señal con marcador después de añadir un cable.
+-Usar cables de diferentes colore.
+-Chequear la existencia de cortocircuitos cortocircuitos.
+-Chequear fuentes de poder funcionas.
+-De un proyecto grande, dividirlo en varias partes y trabajar de forma independiente en cada parte, esto es, 
+"divide y venceras".
+
+Soldadura fría, es el producto de una mala soldadura, cuando se rompe la soldadura en la parte soldada.
+
+Diodos:
+Permiten el paso de la corriente eléctrica en un solo sentido, puede usarse como rectificador (impedir el paso de la corriente
+en un sentido e impedirlo en el sentido contrario).
+
+LEDs:
+Son diodos que además generan luz, generalmente un led genera un solo color, pero hay elementos que son una convinación de variso
+leds, donde de a cuerdo al voltaje que recive se conecta a uno u otro led y por ende emite varios colores.
+
+Resistencia:
+Es una propiedad de cualquier materia (excepto de los superconductores) a oponerse al paso de la corriente.
+Un resistor es un elemento pasivo que tiene su ressitencia marcada en una unidad.
+
+En un resistor es importante 2 datos, la resistencia que tiene y la potencia que disipa, porque si ponemos en un circuito
+un resistor que disipa menor potencia de la que se genera en el circuito, se va a quemar, mientras que si ponemos una que excede
+este valor es un gasto inecesario.
+
+La tolerancia de un resistor es el un porcentage del valor en el que va a variar su resistencia, entre el valor menos ese
+porcentaje y mas ese porcentaje.
+
+Tuning:
+En electrónica es calibración, para hacer letras mas clara u oscuras como ejemplo.
+
+Hoja de especificación técnica:
+Es una lista de un conjunto de atributos de un dispositivo electronico, como:
+Maxima temperatura que resiste.
+Resistencia.
+etc.
+
+Empaquetado:
+Empaquetado de un dispositivo es la presentación de ese elemento.
+
+Circuito integrado:
+Es una gamma de muchos circuitos empaquetados en un solo dispositivo, estos dispositivos tienen un código que distigue entre 
+otros dispositivos, también suele representar algún dato del fabricante.
+
+Todo dispositivo electrónico tiene un esquema (un gráfico) que los distingue de otros dispositivos.

@@ -1,0 +1,22 @@
+use empresa;
+DELIMITER //
+create procedure 
+	ingresarcliente(in numclie int, in empresa varchar(100), in repclie int, in limitecredito decimal) begin
+	insert into clientes values(numclie, empresa, repclie, limitecredito);
+end
+
+//
+DELIMITER;
+
+DELIMITER  |
+CREATE TRIGGER validar_ingreso BEFORE INSERT ON cliente
+FOR EACH ROW BEGIN
+
+
+IF (select CURTIME() > '8:00' AND CURTIME() < '16:30') THEN
+	call ingresarcliente(NEW.1000, NEW.´espol´, NEW.2000, NEW.50.30);
+END IF;
+END
+
+//
+DELIMITER;

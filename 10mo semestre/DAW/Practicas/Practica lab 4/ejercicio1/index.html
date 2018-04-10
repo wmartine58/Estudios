@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <div id="main"><h2>DAW?</h2><p id="mensaje"></p></div>
+
+
+    <button type="button" onClick="cargarInfo()">Averiguar</button>
+	<script type="text/javascript">
+		function cargarInfo() {
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (xhttp.readyState == 4 && xhttp.status == 200) {
+					document.getElementById("mensaje").innerHTML = xhttp.responseText;						
+				}
+			};
+			xhttp.open("GET", "info.txt");
+			xhttp.send();
+		}
+		</script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+    #cuerpo {
+        font-family: georgia, sans-serif;
+        font-size: 100%;
+        line-height: 1.75em;
+    }
+
+    h1 {
+        font-family: marko one, georgia, sans-serif;
+        font-size: 40px;
+        color: purple;
+        text-shadow: .1em .1em .2em lightslategray;
+    }
+
+    p, dl {
+        font-size: 0.875em;
+    }
+
+    dt {
+        font-weight: bold;
+        color: sienna;
+    }
+
+    strong {
+        font-style: oblique;
+    }
+
+    .newitem strong {
+        color: maroon;
+    }
+
+    #info {
+        color: teal;
+    }
+
+    #info p {
+        /*font-style: oblique;*/
+        color: gray;
+    }
+
+    #info span {
+        font-style: normal;
+    }
+
+    .price {
+        font-family: georgia, sans-serif;
+        font-style: oblique;
+        color: gray;
+    }
+
+    .label {
+        font-weight: bold;
+        font-style: normal;
+        font-variant: small-caps;
+    }
+
+    .warning {
+        font-size: xx-small;
+        color: red;
+    }
+
+    h1, h2, #info {
+        text-align: center;
+    }
+
+    h2 {
+        text-transform: uppercase;
+        letter-spacing: .5em;
+        color: purple;
+    }
+
+    #appetizers p, #entrees p {
+        text-align: center;
+        font-style: oblique;
+    }
+
+    ul li {
+        list-style-type: none;
+        margin: 0 auto;
+        padding: 0 auto;
+
+    }
+
+    A:link {
+        text-decoration: none;
+        color: #939;
+    } 
+
+    A:hover {
+        text-decoration: underline;
+        background: white;
+        color: #c700f2;
+    }
+
+    #cuerpo {
+        margin-left: 15%;
+        margin-right: 15%;
+        background: #d2dc9d;
+        background-image: url("ladelicia.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center 100px;
+    }
+
+    #header {
+        background-image: url("ladelicia-sombra.png");
+        background-position: right bottom;
+        background-repeat: no-repeat;
+        margin-right: 40px;
+        background-color: white;
+        padding: 40px 10px 40px 100px;
+        opacity: 0.5;
+    }

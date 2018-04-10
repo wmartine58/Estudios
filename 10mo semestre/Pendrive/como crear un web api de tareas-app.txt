@@ -1,0 +1,22 @@
+npm init
+
+En entry point, luego de (index.js) escribimos:
+app.js
+
+Luego instalamos todas las dependencias para este proyecto con el comando:
+npm install express --save
+
+Luego ejecutamos el comando que hace escuchar al puerto que vamos a trabajar:
+node app.js
+
+Detenemos el puerto con el comando:
+control + c
+
+Especificamos que template vamos a usar, en este caso  ejs:
+npm install ejs --save
+
+Iniciamos nuevamente el servidor:
+node app.js
+
+En la carpeta de tareas instalamos una nueva libreria:
+npm install mongoose --save

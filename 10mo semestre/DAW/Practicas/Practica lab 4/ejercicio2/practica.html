@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Datos Personales</title>
+</head>
+<body>
+    <div id="main">
+      <div id="datos">
+        <h2>Datos Personales</h2>
+
+        <p><label style="font-weight: bold">Nombre: </label><label id="nombreTxt"></label></p>
+        <p><label style="font-weight: bold">Apellido: </label><label id="apellidoTxt"></label></p>
+        <p><label style="font-weight: bold">Edad: </label><label id="edadTxt"></label></p>
+      </div>
+      <button type="button" onclick="cargarDatos()">Obtener datos</button>
+    </div>
+	<script>
+		function cargarDatos() {
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (xhttp.readyState == 4 && xhttp.status == 200) {
+					var xml = xhttp.responseXML;
+					console.log(xml.querySelector("persona nombre").textContent);
+					document.getElementById("nombreTxt").textContent = xml.querySelector("persona nombre").textContent;
+					document.getElementById("apellidoTxt").textContent = xml.querySelector("persona apellido").textContent;
+					document.getElementById("edadTxt").textContent = xml.querySelector("persona edad").textContent;
+				}
+			};
+			xhttp.open("GET", "datos.xml", true);
+			xhttp.send();
+		}
+	</script>
+</body>
+</html>

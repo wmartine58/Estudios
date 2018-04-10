@@ -1,0 +1,16 @@
+.boton-principal, .boton-secundario {
+  font-size: 24px;
+  padding: .5em .8em;
+  border: none;
+  cursor: pointer;
+}
+
+.boton-principal {
+  background: #0BE66A;
+  border-radius: 3px;
+}
+
+.boton-secundario {
+  background: #DDDDDD;
+  border-radius: 15px;
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Tareas app</title>
+	</head>
+	<body>
+		<h1><%= titulo %></h1>
+		<% for (var i = 0; i < nombres.length; i++) { %>
+			<p><%= nombres[i] %></p>
+		<% } %>
+	</body>
+</html>
+
+//Se para el servidor solo cuando modifico algo del servidor, por ejemplo el app.js, si modifico algo
+//en el index.ejs no es necesario parar el servidor.

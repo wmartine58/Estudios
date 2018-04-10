@@ -1,0 +1,20 @@
+%boton {
+	font-size: 24px;
+	padding: .5em .8em;
+	border: none;
+	cursor: pointer;
+}
+
+@mixin boton-color-radius($color, $radius) {
+	@extend %boton;
+	background: $color;
+	border-radius: $radius;
+}
+
+.boton-principal {
+	@include boton-color-radius(#0BE66A, 3px);
+}
+
+.boton-secundario {
+	@include boton-color-radius(#DDDDDD, 15px);
+}

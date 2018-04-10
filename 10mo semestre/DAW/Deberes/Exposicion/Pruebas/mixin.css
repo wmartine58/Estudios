@@ -1,0 +1,40 @@
+/*
+.boton {
+  font-size: 24px;
+  padding: .5em .8em;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
+
+.boton-principal {
+  @include boton;
+  background: #0BE66A;
+}
+
+.boton-secundario {
+  @include boton;
+  background: #DDDDDD;
+}
+*/
+
+@mixin .boton{
+  border-radius:4px;
+  border: solid 1px #aaa;
+  background: #ddd;
+  color: #000;
+}
+.rojo{
+  background: #f00;
+  color: #fff;
+}
+.verde{
+  background: #0f0;
+ color: #fff;
+}
+
+.boton-principal {
+  /* Se combinan dos clases anteriores para crear una tercera */
+  .boton;
+  .verde;
+}

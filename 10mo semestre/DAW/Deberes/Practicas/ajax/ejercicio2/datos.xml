@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<persona>
+    <nombre>Juan</nombre>
+    <apellido id="lastname">Perez</apellido>
+    <edad>25</edad>
+</persona>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		</head>
+		<body>
+			<h1>Checka perfiles de github!</h1>
+				<select id="listausuarios" onclick="cargarDatos()" size=1>
+				<img id="imgactual" src="https://avatars.githubusercontent.com/u/583231?v=3">				
+				</select>				
+				<script>
+					function cargarDatos() {
+						var xhttp = new XMLHttpRequest();
+						xhttp.onreadystatechange = function() {
+							if (xhttp.readyState == 4 && xhttp.status == 200) {
+								var json = JSON.parse(xhttp.responseText);
+
+								var lista = document.getElementById("listausuarios");
+
+								json.forEach(function(users) {
+									var texto = document.createElement.("option");
+									texto.textContent =	users.usuario;
+									lista.appendChild(texto);
+
+								});
+							}
+						};
+						xhttp.open("GET", "usuarios.json", true);
+						xhttp.send();
+					}
+				</script>
+		</body>
+	</html>

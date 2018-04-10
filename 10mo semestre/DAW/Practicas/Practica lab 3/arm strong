@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+
+var numero, i, j,  cifras = 3, total
+
+total = 0
+j = 0
+numero = 22
+
+for (i = 10; j<cifras;  i = i*10) {
+	total = total + Math.pow(numero%i, 3)
+	j++
+}
+
+System.out.println("El numero es:" + total)

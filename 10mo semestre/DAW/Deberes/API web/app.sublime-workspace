@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"btn_volv",
+				"btn_volver_de_reporte"
+			],
+			[
+				"btn-volver",
+				"btn-volver-de-datos"
+			],
+			[
+				"com",
+				"componer_mensaje"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"se",
+				"selectedIndex"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"modal_i",
+				"modal_ingreso_exitoso"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"e",
+				"eliminar_recursos"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"modal",
+				"modal_registro"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mo",
+				"modal-registro"
+			],
+			[
+				"btn_pri_",
+				"btn_pri_registrarse"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"alte",
+				"alternar-texto"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"radius",
+				"radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"comm",
+				"comment-imput"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import Package Control.sublime-package",
+			"Package Control.sublime-package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Wellington/Desktop/tareas/routes/index.js",
+		"/C/Users/Wellington/Desktop/tareas/routes/users.js",
+		"/C/Users/Wellington/Desktop/tareas/app.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/practica/footer.ejs",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/practica/header.ejs",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/practica/index.ejs",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/practica/app.js",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/ayuda.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/imagenes.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/imagenes.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/operario.js",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/operario.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/operario.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/main.js",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/index.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/master.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/ayuda.html",
+		"/C/wamp/www/Proyecto/Ejemplo de proyecto/ecuadorprimero/index.html",
+		"/C/wamp/www/Proyecto/Ejemplo de proyecto/ecuadorprimero/master.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/datos.json",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/LoginRegistrationForm/css/style.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/LoginRegistrationForm/index.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Animaciones/master.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Animaciones/index.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/video.js",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Modal/index.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Ingreso/index.html",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Inicio/video.css",
+		"/C/wamp/www/Proyecto/SaludPrimero S.A/Video El Principe/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/master.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Video/main.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Video/master.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/video.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/video.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/video.html",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Video/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Ingreso/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Nueva carpeta/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Nueva carpeta/master.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Inicio/main.js",
+		"/C/Users/Wellington/Desktop/Exposicion/index.html",
+		"/C/Users/Wellington/Desktop/Exposicion/main.scss",
+		"/C/Users/Wellington/Desktop/Exposicion/main.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/SaludPrimero S.A/Ingreso/master.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/Ejemplo de proyecto/ecuadorprimero/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/index.html",
+		"/C/Users/Wellington/Desktop/Ejemplo de proyecto/ecuadorprimero/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Proyecto/Proyecto primer parcial.pdf",
+		"/D/Archivos/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/master.scss",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/alcanceSelector.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/master.scss",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/Pruebas/alcanceSelector.scss",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/alcanceSelector.scss",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/index.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/master.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/codeofall.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/all.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/mixin.scss",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/mixin.scss.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Deberes/Exposicion/mixin.sass",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/contacto.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/faq.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/nosotros.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/paquetes.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/ecuadorprimero/master.js",
+		"/C/Users/Wellington/Desktop/practica bootstrap/index.html",
+		"/C/Users/Wellington/Desktop/practica bootstrap/index.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio4/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio3/datos.json",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio3/practica.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio2/practica.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio4/javascripts/app.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 3/comentarios.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio5/usuarios.json",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 3/comentarios.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 3/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 2/intro_css.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 2/menu.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 3/script.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 4/ejercicio4/test.json",
+		"/C/Users/Wellington/Desktop/javascript/comentarios/index.html",
+		"/C/Users/Wellington/Desktop/comentarios/script.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 2/comentarios.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 2/comentarios.html",
+		"/C/Users/Wellington/Desktop/comentarios/index.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 2/comentarios.css",
+		"/C/Users/Wellington/Desktop/arm strong.txt",
+		"/C/Users/Wellington/Desktop/palindromo.txt",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica lab 1/Practica 3/menu.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 3/menu.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/arm strong.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/verificador_cadenas.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/palindromo.js",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 4/daw.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 3/menu.css",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Practica 2/noticia.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/Enlaces e imagenes.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/intro_css.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/lavender.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/tablas.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/cathedral.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/sweets.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/Sienna.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/countryside.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/Pozzarello.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Restaurante.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/window.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Enlaces e imagenes/Links e imagenes.html",
+		"/D/Archivos de usuario/Andres Martinez/Academico/10mo Semestre/DAW/Practicas/Links e imagenes.html",
+		"/C/Users/Wellington/Documents/GitRepository/grupo1_cando_martinez/Primer Parcial/Objective-C/Proyecto/main.m"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".\n",
+			"col",
+			"footer",
+			"ol",
+			"ul",
+			"<>",
+			"li",
+			"<>",
+			"</>",
+			"ul",
+			"Casa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS/SASS (Windows).sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

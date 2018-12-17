@@ -1,0 +1,15 @@
+1.	¿Cómo está el clima hoy?
+Como esta el clima hoy
+¿Cómo está el clima?
+Como esta el clima
+como esta el clima
+¿Qué tiempo hace hoy?
+Que tiempo hace hoy
+que tiempo hace hoy
+RES: el clima hoy se encuentra nublado, sin embargo, en los ultimos dias ha variado entre nublado y soleado, con mi capacidad actual, puedo decirte como el clima estara mañana
+2.	¿Cómo estará el clima mañana?
+Como estará el clima mañana
+como estará el clima mañana
+¿Qué clima hará mañana?
+que clima hará mañana
+RES: mañana el clima estara nublado, sin muchas posibilidades de lluvia, deberias saber como ir vestido bajo estas condiciones climaticas, yo te puedo facilitar esta informacion
